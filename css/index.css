@@ -52,7 +52,7 @@
 }
 
 @media screen and (min-width: 992px) {
-  .top-nav-title{
+  .top-nav-title {
     text-align: center;
     margin-top: 5px;
   }
@@ -89,7 +89,7 @@
     left: 5px;
   }
 
-  .nav-fast-link{
+  .nav-fast-link {
     display: flex;
     width: 80%;
   }
