@@ -34,7 +34,7 @@
 }
 
 .footer_logo {
-  width: 190px;  
+  width: 190px;
 }
 
 .social_media_footer {
@@ -52,7 +52,6 @@
 }
 
 @media screen and (min-width: 992px) {
-
   .top-nav-title{
     text-align: center;
     margin-top: 5px;
@@ -94,5 +93,4 @@
     display: flex;
     width: 80%;
   }
-
 }
