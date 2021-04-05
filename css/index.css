@@ -1,0 +1,38 @@
+.nav {
+  background-color: #f72210;
+}
+
+.nav a {
+  text-decoration: none;
+  color: white;
+  width: 132px;
+  height: 40px;
+  font-size: 160%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.login_img,
+.menu_img {
+  width: 21px;
+  height: 30px;
+}
+
+.dise {
+  display: none;
+}
+
+@media screen and (min-width: 768px) {
+    .login_img {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .dise {
+        display: flex;
+    }
+    
+    .nav_img {
+        display: none;
+    }
+}
