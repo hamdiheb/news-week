@@ -8,14 +8,19 @@ The next project is to check out more about Responsive design using bootstrap an
 
 Screenshots :
 
+Phone Version :
 ![screenshot](./img/screenshot/phone.png)
+
+Tablet Version :
 ![screenshot](./img/screenshot/tablet.png)
+
+Desktop Version :
 ![screenshot](./img/screenshot/desktop.png)
 
 ## Built With 🔨
 
 - HTML5
-- CSS
+- Bootstrap
 - Visual Studio Code
 - Git & Github
 
