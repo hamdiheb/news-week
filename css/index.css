@@ -22,17 +22,17 @@
 }
 
 @media screen and (min-width: 768px) {
-    .login_img {
-        display: none;
-    }
+  .login_img {
+    display: none;
+  }
 }
 
 @media screen and (min-width: 992px) {
-    .dise {
-        display: flex;
-    }
-    
-    .nav_img {
-        display: none;
-    }
+  .dise {
+    display: flex;
+  }
+
+  .nav_img {
+    display: none;
+  }
 }
