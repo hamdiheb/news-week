@@ -11,6 +11,9 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.login {
+  display: none;
+}
 
 .login_img,
 .menu_img {
@@ -22,21 +25,42 @@
   display: none;
 }
 
-.nav-menu{
+.nav-menu {
   display: none;
 }
 
-.nav-fast-link{
+.nav-fast-link {
   display: none;
 }
 
-@media screen and (min-width: 768px) {
+.footer_logo {
+  width: 190px;  
+}
+
+.social_media_footer {
+  width: 26px;
+}
+
+@media screen and (min-width: 760px) {
   .login_img {
     display: none;
+  }
+
+  .social_media {
+    text-align: right;
   }
 }
 
 @media screen and (min-width: 992px) {
+  .top-nav-title{
+    text-align: center;
+    margin-top: 5px;
+  }
+
+  .menu {
+    margin-top: 40px;
+  }
+
   .dise {
     display: flex;
   }
@@ -45,20 +69,27 @@
     display: none;
   }
 
-  .nav-menu{
+  .nav-menu {
     display: flex;
     width: 95%;
-    
+  }
+
+  .search {
+    width: 80px;
+    outline: none;
+    border: none;
+  }
+
+  .search_icon {
+    display: flex;
+    float: right;
+    position: relative;
+    height: 10px;
+    bottom: 18px;
+    left: 5px;
   }
 
   .nav-fast-link{
     display: flex;
     width: 80%;
   }
-
-  /* .nav-menu-link{
-    color: white;
-    font-size: 11px;
-  } */
-
-}
