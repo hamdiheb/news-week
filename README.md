@@ -7,14 +7,16 @@
 The next project is to check out more about Responsive design using bootstrap and how to apply mobile-first techniques, this website was created using bootstrap and good practices. We've included bootstrap and good practices to build, with responsive design, a simple website clone of newsweek.com
 
 Screenshots :
-
 Phone Version :
+
 ![screenshot](./img/screenshot/phone.png)
 
 Tablet Version :
+
 ![screenshot](./img/screenshot/tablet.png)
 
 Desktop Version :
+
 ![screenshot](./img/screenshot/desktop.png)
 
 ## Built With 🔨
