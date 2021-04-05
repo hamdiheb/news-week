@@ -43,5 +43,13 @@
 
   .nav-menu{
     display: flex;
+    width: 95%;
+    
   }
+
+  /* .nav-menu-link{
+    color: white;
+    font-size: 11px;
+  } */
+
 }
