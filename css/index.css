@@ -26,6 +26,10 @@
   display: none;
 }
 
+.nav-fast-link{
+  display: none;
+}
+
 @media screen and (min-width: 768px) {
   .login_img {
     display: none;
@@ -45,6 +49,11 @@
     display: flex;
     width: 95%;
     
+  }
+
+  .nav-fast-link{
+    display: flex;
+    width: 80%;
   }
 
   /* .nav-menu-link{
