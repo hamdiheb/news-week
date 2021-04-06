@@ -55,6 +55,10 @@
 }
 
 @media screen and (min-width: 760px) {
+  .list_icon {
+    display: none;
+  }
+
   .social_media {
     text-align: right;
   }
