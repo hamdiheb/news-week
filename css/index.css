@@ -50,8 +50,13 @@
   width: 190px;
 }
 
+.social_media_footer a:hover{
+  color: blue;
+}
+
 .social_media_footer {
   width: 26px;
+  color: inherit;
 }
 
 @media screen and (min-width: 760px) {
