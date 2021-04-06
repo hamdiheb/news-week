@@ -11,8 +11,8 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.login {
-  display: none;
+.top-nav-logo {
+  width: 131px;
 }
 
 .login_img,
@@ -42,10 +42,6 @@
 }
 
 @media screen and (min-width: 760px) {
-  .login_img {
-    display: none;
-  }
-
   .social_media {
     text-align: right;
   }
@@ -55,6 +51,10 @@
   .top-nav-title {
     text-align: center;
     margin-top: 5px;
+  }
+
+  .top-nav-logo {
+    width: 395px;
   }
 
   .menu {
@@ -92,5 +92,11 @@
   .nav-fast-link {
     display: flex;
     width: 80%;
+  }
+}
+
+@media screen and (min-width: 375px) {
+  .login {
+    display: none;
   }
 }
