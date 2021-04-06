@@ -105,6 +105,16 @@
   .social_media {
     text-align: right;
   }
+
+  /****Top Stories****/
+  #second_article {
+    padding-left: 60px;
+  }
+
+  .img-tablet {
+    height: 241px;
+  }
+  /*******************/
 }
 
 @media screen and (min-width: 992px) {
