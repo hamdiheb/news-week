@@ -61,6 +61,18 @@
     margin-top: 40px;
   }
 
+  .nav-menu-link {
+    font-size: 15px;
+    line-height: 24px;
+    font-weight: bold;
+    font-family: "Roboto Condensed",sans-serif;
+    color: black;
+  }
+
+  .nav-menu-link:hover {
+    color: red;
+  }
+
   .dise {
     display: flex;
   }
