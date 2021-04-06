@@ -50,13 +50,16 @@
   width: 190px;
 }
 
-.social_media_footer a:hover{
-  color: blue;
-}
-
 .social_media_footer {
   width: 26px;
-  color: inherit;
+  border: 1px solid gray;
+  padding: 2px;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.social_media_footer:hover {
+  background-color: gray;
 }
 
 @media screen and (min-width: 760px) {
@@ -106,11 +109,11 @@
 
   .login {
     display: flex;
-    font-size: 18px;
+    font-size: 12px;
     line-height: 30px;
     padding-left: 15px;
     padding-right: 15px;
-    margin-top: 4px;
+    margin-top: 5px;
     margin-bottom: 4px;
   }
 
@@ -128,7 +131,7 @@
 
   .nav-menu {
     display: flex;
-    width: 95%;
+    width: 100%;
   }
 
   .search {
