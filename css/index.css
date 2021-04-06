@@ -94,9 +94,3 @@
     width: 80%;
   }
 }
-
-@media screen and (min-width: 375px) {
-  .login {
-    display: none;
-  }
-}
