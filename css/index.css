@@ -95,6 +95,30 @@
   font-size: 14px;
   font-family: "Roboto Condensed", sans-serif;
 }
+/******Top Stories********/
+
+.my_turn_tablet {
+  width: 345px;
+}
+
+/******More Stories********/
+
+.more_storie {
+  width: 345px;
+}
+
+.more_storie_pic {
+  width: 95px;
+}
+
+.more_storie_title {
+  width: 202px;
+  font-size: 17px;
+}
+
+.more_storie_title a {
+  color: black;
+}
 /**************/
 
 @media screen and (min-width: 760px) {
@@ -108,13 +132,17 @@
 
   /****Top Stories****/
   #second_article {
-    padding-left: 60px;
+    padding-left: 70px;
   }
 
   .img-tablet {
     height: 241px;
   }
   /*******************/
+
+  .my_turn_tablet {
+    width: 117px;
+  }
 }
 
 @media screen and (min-width: 992px) {
