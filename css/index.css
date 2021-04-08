@@ -62,8 +62,6 @@
   background-color: gray;
 }
 
-/***Stories****/
-
 .stories {
   width: 350px;
 }
@@ -97,8 +95,6 @@
   font-family: "Roboto Condensed", sans-serif;
 }
 
-/******Top Stories********/
-
 .my_turn_tablet {
   width: 345px;
 }
@@ -106,8 +102,6 @@
 .my_turn_tablet_img {
   width: 345px;
 }
-
-/******More Stories********/
 
 .more_storie {
   width: 348px;
@@ -128,8 +122,6 @@
   color: black;
 }
 
-/*******Sponsor*******/
-
 .sponsor {
   width: 348px;
 }
@@ -143,8 +135,6 @@
   font-size: 23px;
   font-weight: bolder;
 }
-
-/********Debate****/
 
 .debate{
   font-size: 16px;
@@ -186,8 +176,6 @@
   background-color: black;
 }
 
-/******************/
-
 @media screen and (min-width: 760px) {
   .list_icon {
     display: none;
@@ -197,17 +185,13 @@
     text-align: right;
   }
 
-  /****Top Stories****/
-
-#second_article {
+  #second_article {
     padding-left: 70px;
   }
 
   .img-tablet {
     height: 241px;
   }
-
-  /********More Storie***********/
 
   .more_storie_info{
     font-size: 13px;
@@ -220,8 +204,6 @@
     height: 140px;
   }
 
-  /*****************************/
-
   .my_turn_tablet {
     width: 117px;
   }
@@ -229,8 +211,6 @@
   .my_turn_tablet_img {
     width: 117px;
   }
-
-  /*******Sponsor*******/
 
  .sponsor {
   width: 348px;
@@ -245,8 +225,6 @@
    font-size: 23px;
    font-weight: bolder;
  }
-
-/*********Debate**********/
 
 .debate{
   font-size: 16px;
@@ -274,8 +252,6 @@
   font-size: 11px;
 }
 
-/*********Versus*************/
-
 .debate-versus {
   height: 20px;
 }
@@ -295,8 +271,6 @@
   background-color: black;
 }
 }
-
- /*********************/ 
 
 @media screen and (min-width: 992px) {
   .top-nav-title {
@@ -401,10 +375,6 @@
     height: 300px;
   }
 
- /*********Stories**********/ 
-
- /*************************/ 
-
   .my_turn_tablet {
     width: 182px;
   }
@@ -413,8 +383,6 @@
     width: 182px;
     padding-left: 5px;
   }
-
- /******More Stories********/ 
 
   .more_storie {
     width: 550px;
@@ -438,8 +406,6 @@
   .more_storie_info {
     width: 450px;
   }
-
- /*********Debate**********/ 
 
   .debate {
     font-size: 16px;
@@ -472,10 +438,6 @@
     margin-top: 10px;
     margin-right: 6px;
   }
-
- /*****Debate end*****************/ 
-
- /*********Versus*************/
 
   .debate-versus {
     width: 300px;
