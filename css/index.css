@@ -68,10 +68,14 @@
   width: 345px;
 }
 
+.top_img {
+  width: 345px;
+}
+
 .top_storie_category {
   width: 80px;
   position: absolute;
-  margin-top: -26px;
+  margin-top: -25px;
   background-color: #ffffe6;
 }
 
@@ -80,6 +84,20 @@
   font-weight: 900;
 }
 
+/*************My turn*************/
+
+.myturn_img {
+  width: 100px;
+}
+
+/****************More stories*******************/
+
+.morestories_img {
+  width: 100px;
+  height: 90px;
+}
+
+/***********************************************/
 /*******The Debate*********/
 
 .the-debate-profile-img{
@@ -106,6 +124,20 @@
 
   .social_media {
     text-align: right;
+  }
+  
+  .sponsor {
+    width: 350px;
+  }
+
+  .sponsor_img {
+    width: 350px;
+  }
+
+  .sponsor_category {
+    width: 110px;
+    background-color: #ffffe6;
+    margin-top: -23px;
   }
 }
 
@@ -205,5 +237,19 @@
 
   .fast-link:hover {
     color: red;
+  }
+  
+  .sponsor_img,
+  .sponsor,
+  .top_storie_img {
+    width: 300px;
+  }
+
+  .top_img {
+    width: 590px;
+  }
+
+  .myturn_img {
+    width: 160px;
   }
 }
