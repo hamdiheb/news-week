@@ -136,12 +136,12 @@
   font-weight: bolder;
 }
 
-.debate{
+.debate {
   font-size: 16px;
   color: #303030;
 }
 
-.debate-title{
+.debate-title {
   font-size: 15px;
   width: 270px;
   height: 45px;
@@ -193,7 +193,7 @@
     height: 241px;
   }
 
-  .more_storie_info{
+  .more_storie_info {
     font-size: 13px;
     width: 350px;
     color: #333;
@@ -212,64 +212,64 @@
     width: 117px;
   }
 
- .sponsor {
-  width: 348px;
- }
+  .sponsor {
+    width: 348px;
+  }
 
- .sponsor_img {
-  width: 348px;
- }
+  .sponsor_img {
+    width: 348px;
+  }
 
- .sponsor_title a {
-   color: black;
-   font-size: 23px;
-   font-weight: bolder;
- }
+  .sponsor_title a {
+    color: black;
+    font-size: 23px;
+    font-weight: bolder;
+  }
 
-.debate{
-  font-size: 16px;
-  color: #303030;
-}
+  .debate {
+    font-size: 16px;
+    color: #303030;
+  }
 
-.debate-title{
-  font-size: 15px;
-  width: 660px;
-  height: 15px;
-  margin-top: 10px;
-}
+  .debate-title {
+    font-size: 15px;
+    width: 660px;
+    height: 15px;
+    margin-top: 10px;
+  }
 
-.debate-title a {
-  color: black;
-  text-decoration: none;
-}
+  .debate-title a {
+    color: black;
+    text-decoration: none;
+  }
 
-.debate-title a:hover {
-  text-decoration: underline;
-}
+  .debate-title a:hover {
+    text-decoration: underline;
+  }
 
-.debate-info {
-  width: 660px;
-  font-size: 11px;
-}
+  .debate-info {
+    width: 660px;
+    font-size: 11px;
+  }
 
-.debate-versus {
-  height: 20px;
-}
+  .debate-versus {
+    height: 20px;
+  }
 
-.versus-hr {
-  border: 3px solid black;
-  width: 720px;
-}
+  .versus-hr {
+    border: 3px solid black;
+    width: 720px;
+  }
 
-.versus {
-  margin-top: -30px;
-  color: white;
-}
+  .versus {
+    margin-top: -30px;
+    color: white;
+  }
 
-.versus_span {
-  border: 1px solid black;
-  background-color: black;
-}
+  .versus_span {
+    border: 1px solid black;
+    background-color: black;
+  }
 }
 
 @media screen and (min-width: 992px) {
