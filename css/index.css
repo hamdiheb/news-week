@@ -406,110 +406,110 @@
 
   /******More Stories********/
 
-.more_storie {
-  width: 550px;
-  height: 120px;
-}
+  .more_storie {
+    width: 550px;
+    height: 120px;
+  }
 
-.more_storie_pic {
-  width: 95px;
-}
+  .more_storie_pic {
+    width: 95px;
+  }
 
-.more_storie_title {
-  width: 300px;
-  font-size: 17px;
-  margin-right: 150px;
-}
+  .more_storie_title {
+    width: 300px;
+    font-size: 17px;
+    margin-right: 150px;
+  }
 
-.more_storie_title a {
-  color: black;
-}
+  .more_storie_title a {
+    color: black;
+  }
 
-.more_storie_info {
-  width: 450px;
-}
+  .more_storie_info {
+    width: 450px;
+  }
 
 /*********Debate**********/
 
-.debate{
-  font-size: 16px;
-  color: #303030;
-}
+  .debate{
+    font-size: 16px;
+    color: #303030;
+  }
 
-.debate-title{
-  font-size: 15px;
-  width: 220px;
-  height: 45px;
-  margin-top: 10px;
-}
+  .debate-title {
+   font-size: 15px;
+    width: 220px;
+    height: 45px;
+    margin-top: 10px;
+  }
 
-.debate-title a {
-  color: black;
-  text-decoration: none;
-}
+  .debate-title a {
+    color: black;
+    text-decoration: none;
+  }
 
-.debate-title a:hover {
-  text-decoration: underline;
-}
+  .debate-title a:hover {
+    text-decoration: underline;
+  }
 
-.debate-info {
-  width: 200px;
-  font-size: 11px;
-  margin-right: 20px;
-}
+  .debate-info {
+    width: 200px;
+    font-size: 11px;
+    margin-right: 20px;
+  }
 
-.debate-img {
-  margin-top: 10px;
-  margin-right: 6px;
-}
+  .debate-img {
+    margin-top: 10px;
+    margin-right: 6px;
+  }
 
 /*****Debate end*****************/
 
 /*********Versus*************/
-.debate-versus {
-  width: 300px;
-  height: 20px;
-}
+  .debate-versus {
+    width: 300px;
+    height: 20px;
+  }
 
-.versus-hr {
-  border: 3px solid black;
-  width: 280px;
-}
+  .versus-hr {
+    border: 3px solid black;
+    width: 280px;
+  }
 
-.versus {
-  margin-top: -30px;
-}
+  .versus {
+    margin-top: -30px;
+  }
 
-.versus_span {
-  color: white;
-  background-color: black;
-  border: 1px solid black;
-}
+  .versus_span {
+    color: white;
+    background-color: black;
+    border: 1px solid black;
+  }
 
-.shehada{
-  width: 200px;
-  font-size: 15;
-}
+  .shehada{
+    width: 200px;
+    font-size: 15;
+  }
 
-.eugene{
-  width: 180px;
-}
+  .eugene{
+    width: 180px;
+  }
 
-.opinion-header{
-  font-size:16px ;
-  color: #303030;
-}
+  .opinion-header{
+    font-size:16px ;
+    color: #303030;
+  }
 
-.opinion-item{
-  font-size: 17px;
-  width: 290px;
-  font-family: sans-serif; 
-}
+  .opinion-item{
+    font-size: 17px;
+    width: 290px;
+    font-family: sans-serif; 
+  }
 
-.by-names{
-  font-size: 14px;
-  font-family: sans-serif;
-  color: #555;
-  margin-left: 80px;
-}
+  .by-names{
+    font-size: 14px;
+    font-family: sans-serif;
+    color: #555;
+    margin-left: 80px;
+  }
 }
