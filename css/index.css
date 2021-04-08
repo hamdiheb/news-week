@@ -96,6 +96,7 @@
   font-size: 14px;
   font-family: "Roboto Condensed", sans-serif;
 }
+
 /******Top Stories********/
 
 .my_turn_tablet {
@@ -105,6 +106,7 @@
 .my_turn_tablet_img {
   width: 345px;
 }
+
 /******More Stories********/
 
 .more_storie {
@@ -125,7 +127,9 @@
 .more_storie_title a {
   color: black;
 }
+
 /*******Sponsor*******/
+
 .sponsor {
   width: 348px;
 }
@@ -141,6 +145,7 @@
 }
 
 /********Debate****/
+
 .debate{
   font-size: 16px;
   color: #303030;
@@ -180,6 +185,7 @@
   border: 1px solid black;
   background-color: black;
 }
+
 /******************/
 
 @media screen and (min-width: 760px) {
@@ -200,6 +206,7 @@
   .img-tablet {
     height: 241px;
   }
+
   /********More Storie***********/
 
   .more_storie_info{
@@ -212,6 +219,7 @@
     width: 348px;
     height: 140px;
   }
+
   /*****************************/
 
   .my_turn_tablet {
@@ -221,6 +229,7 @@
   .my_turn_tablet_img {
     width: 117px;
   }
+
   /*******Sponsor*******/
 
  .sponsor {
@@ -236,7 +245,6 @@
    font-size: 23px;
    font-weight: bolder;
  }
-
 
 /*********Debate**********/
 
@@ -267,6 +275,7 @@
 }
 
 /*********Versus*************/
+
 .debate-versus {
   height: 20px;
 }
@@ -287,6 +296,7 @@
 }
 
 }
+
 /*********************/
 
 @media screen and (min-width: 992px) {
@@ -391,6 +401,7 @@
     width: 550px;
     height: 300px;
   }
+
   /*********Stories**********/
 
   /*************************/
@@ -429,7 +440,7 @@
     width: 450px;
   }
 
-/*********Debate**********/
+  /*********Debate**********/
 
   .debate{
     font-size: 16px;
@@ -463,9 +474,10 @@
     margin-right: 6px;
   }
 
-/*****Debate end*****************/
+  /*****Debate end*****************/
 
-/*********Versus*************/
+  /*********Versus*************/
+  
   .debate-versus {
     width: 300px;
     height: 20px;
