@@ -97,7 +97,19 @@
   height: 90px;
 }
 
-/***********************************************/
+/********************sponsor***************************/
+
+.sponsor_img,
+.sponsor {
+  width: 340px;
+}
+
+.sponsor_category {
+  width: 110px;
+  background-color: #ffffe6;
+  margin-top: -25px;
+
+}
 /*******The Debate*********/
 
 .the-debate-profile-img{
