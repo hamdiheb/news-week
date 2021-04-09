@@ -170,6 +170,21 @@
   background-color: rgba(255, 255, 255, 0.9);
 }
 
+#one {
+  position: relative;
+  top:50px;
+  right: 80px;
+}
+
+.img-sub {
+  width: 32%;
+  height: 80%;
+}
+
+.newsletter {
+  height: 350px;
+}
+
 @media screen and (min-width: 760px) {
   .list_icon {
     display: none;
@@ -224,6 +239,11 @@
 
   .banner {
     width: 100%;
+  }
+
+  .img-sub {
+    width: 40%;
+    height: 50%px;
   }
 }
 
