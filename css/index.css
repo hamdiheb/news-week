@@ -156,6 +156,12 @@
   font-size: 15px;
 }
 
+.culture_category {
+  position: absolute;
+  margin-top: -30px;
+  background-color: rgba(255,255,255,.9);
+}
+
 @media screen and (min-width: 760px) {
   .list_icon {
     display: none;
