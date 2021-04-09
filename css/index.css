@@ -158,10 +158,17 @@
 
 .culture_category {
   position: absolute;
-  margin-top: -30px;
+  margin-top: -23px;
   background-color: rgba(255, 255, 255, 0.9);
 }
 
+.magazin-category {
+  margin-top: -20px;
+}
+
+.magazin-category a {
+  background-color: rgba(255, 255, 255, 0.9);
+}
 @media screen and (min-width: 760px) {
   .list_icon {
     display: none;
