@@ -233,6 +233,26 @@
     margin-top: 8px;
   }
 
+  .sign-up-btn2{
+    font-size: 14px;
+    transition-property: font-size;
+    transition-duration: 4s;
+    transition-delay: 2s;
+  }
+
+  .sign-up-btn2:hover{
+    font-size: 36px;
+    color: chartreuse;
+  }
+
+  .sub-btn:hover{
+    transition-property: font-size;
+    transition-duration: 6s;
+    transition-delay: 2s;
+    font-size: 36px;
+    color: cyan;
+  }
+
   .input-sign {
     width: 200px;
   }
